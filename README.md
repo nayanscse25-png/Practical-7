@@ -46,13 +46,13 @@
         <a href="#" onclick="alert('Contact No.: 9869696969')">Contact</a>
     </nav>
     <div class="box">
-        <h1>Tribute to Alexander The Great</h1>
+<h1>Tribute to Alexander The Great</h1>
         <p>Alexander the Great (356–323 B.C.E.) was a Macedonian king and military commander who created one of history’s largest empires by age 30, spanning from Greece to India. Tutored by Aristotle, he became king in 336 B.C.E. following his father Philip II's assassination. He was undefeated in battle, conquering Persia, Egypt, and parts of Asia before his death in Babylon.</p>
-        <h2>Achievements</h2>
+<h2>Achievements</h2>
         <p>Became king at age 20 after his father’s assassination.</p>
         <p>In 334 B.C.E., he began his campaign against Persia, winning battles at Granicus, Issus, and Gaugamela.</p>
         <p>He conquered Anatolia, Syria, Phoenicia, Mesopotamia, and modern-day Afghanistan, pushing to the Indus River by 327 B.C.E..</p>
-        <h3>Legacy</h3>
+<h3>Legacy</h3>
 <p>Alexander The Great known for never losing a battle and for spreading Greek culture (Hellenism) across his empire.</p>
         <img src="C:\Users\Asus\Downloads\69233.jpg" alt="Alexander">
     </div>
